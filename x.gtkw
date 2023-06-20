@@ -1,0 +1,59 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Mar  9 03:56:37 2022
+[*]
+[dumpfile] "/home/dhana/Documents/4thSem/C0224/lab/06/224_Processor_part_2/part3/cpu_wavedata.vcd"
+[dumpfile_mtime] "Wed Mar  9 03:46:19 2022"
+[dumpfile_size] 191386
+[savefile] "/home/dhana/Documents/4thSem/C0224/lab/06/224_Processor_part_2/part3/x.gtkw"
+[timestart] 1282440
+[size] 1714 857
+[pos] -1 -1
+*-14.000000 1333550 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[sst_width] 227
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 230
+@420
+[color] 7
+cpu_tb.mycpu.reg_file1.\registers[0][7:0]
+[color] 7
+cpu_tb.mycpu.reg_file1.\registers[1][7:0]
+[color] 7
+cpu_tb.mycpu.reg_file1.\registers[2][7:0]
+[color] 7
+cpu_tb.mycpu.reg_file1.\registers[3][7:0]
+[color] 7
+cpu_tb.mycpu.reg_file1.\registers[4][7:0]
+[color] 7
+cpu_tb.mycpu.reg_file1.\registers[5][7:0]
+[color] 7
+cpu_tb.mycpu.reg_file1.\registers[6][7:0]
+[color] 7
+cpu_tb.mycpu.reg_file1.\registers[7][7:0]
+@200
+-
+@420
+cpu_tb.myicache.address[9:0]
+@22
+cpu_tb.myicache.readinst[31:0]
+@23
+[color] 7
+cpu_tb.myicache.\cache[0][131:0]
+@22
+[color] 7
+cpu_tb.myicache.\cache[1][131:0]
+[color] 7
+cpu_tb.myicache.\cache[2][131:0]
+[color] 7
+cpu_tb.myicache.\cache[3][131:0]
+[color] 7
+cpu_tb.myicache.\cache[4][131:0]
+@28
+cpu_tb.myicache.busywait
+cpu_tb.myicache.tag[2:0]
+cpu_tb.myicache.index[2:0]
+cpu_tb.myicache.offset[1:0]
+[pattern_trace] 1
+[pattern_trace] 0

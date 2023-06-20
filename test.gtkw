@@ -1,0 +1,85 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Mar  8 21:24:52 2022
+[*]
+[dumpfile] "/home/dhana/Documents/4thSem/C0224/lab/06/224_Processor_part_2/part3/cpu_wavedata.vcd"
+[dumpfile_mtime] "Tue Mar  8 21:18:03 2022"
+[dumpfile_size] 198883
+[savefile] "/home/dhana/Documents/4thSem/C0224/lab/06/224_Processor_part_2/part3/test.gtkw"
+[timestart] 1298280
+[size] 1920 1021
+[pos] -1 -1
+*-13.000000 1324940 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[treeopen] cpu_tb.mycpu.
+[sst_width] 227
+[signals_width] 219
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@28
+cpu_tb.CLK
+@24
+cpu_tb.PC[31:0]
+@22
+cpu_tb.INSTRUCTION[31:0]
+@24
+[color] 1
+cpu_tb.mycpu.OPCODE[7:0]
+[color] 5
+cpu_tb.mycpu.OUT1ADDRESS[2:0]
+@420
+[color] 2
+cpu_tb.mycpu.OUT1[7:0]
+@25
+[color] 5
+cpu_tb.mycpu.OUT2ADDRESS[2:0]
+@420
+[color] 2
+cpu_tb.mycpu.OUT2[7:0]
+@24
+[color] 5
+cpu_tb.mycpu.INADDRESS[2:0]
+@420
+[color] 2
+cpu_tb.mycpu.IN[7:0]
+@28
+cpu_tb.dbusywait
+cpu_tb.ibusywait
+cpu_tb.myicache.hit
+cpu_tb.myicache.valid
+cpu_tb.myicache.mem_busywait
+cpu_tb.myicache.address[9:0]
+cpu_tb.myicache.tag[2:0]
+cpu_tb.myicache.index[2:0]
+cpu_tb.myicache.offset[1:0]
+@22
+cpu_tb.myicache.mem_readdata[127:0]
+cpu_tb.myicache.\cache[0][131:0]
+@28
+cpu_tb.myicache.\cache[1][131:0]
+@22
+cpu_tb.myicache.readinst[31:0]
+@200
+-
+@28
+cpu_tb.myimemory.address[5:0]
+cpu_tb.myimemory.busywait
+cpu_tb.myimemory.read
+cpu_tb.myimemory.readaccess
+@22
+cpu_tb.myimemory.readinst[127:0]
+@420
+cpu_tb.mycpu.reg_file1.\registers[1][7:0]
+@200
+-
+@420
+cpu_tb.mycpu.reg_file1.\registers[0][7:0]
+cpu_tb.mycpu.reg_file1.\registers[1][7:0]
+cpu_tb.mycpu.reg_file1.\registers[2][7:0]
+cpu_tb.mycpu.reg_file1.\registers[3][7:0]
+cpu_tb.mycpu.reg_file1.\registers[4][7:0]
+cpu_tb.mycpu.reg_file1.\registers[5][7:0]
+cpu_tb.mycpu.reg_file1.\registers[6][7:0]
+cpu_tb.mycpu.reg_file1.\registers[7][7:0]
+[pattern_trace] 1
+[pattern_trace] 0
